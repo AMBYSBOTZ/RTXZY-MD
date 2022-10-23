@@ -9,25 +9,25 @@
 // Link Plugins (https://github.com/BOTCAHX/RTXZY-MD/blob/v3.0/plugins/info-creator.js)
 
 //Global Owner//
-global.owner = ['6282221792667']  // isi jika perlu
-global.mods = ['6282221792667']   // isi jika perlu
-global.prems = ['6282221792667']  // isi jika perlu
+global.owner = ['6285798267620']  // isi jika perlu
+global.mods = ['6285798267620']   // isi jika perlu
+global.prems = ['6285798267620']  // isi jika perlu
 
 //Nomor Owner & payment//
-global.nameowner = 'TioXd' // isi nama kalian bebas
-global.numberowner = '6282221792667' // isi ini untuk mengendalikan bot, untuk mengubah tampilan owner ada di plugins 
+global.nameowner = 'XIAO SAN' // isi nama kalian bebas
+global.numberowner = '6285798267620' // isi ini untuk mengendalikan bot, untuk mengubah tampilan owner ada di plugins 
 global.dana = '6282221792667' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6282221792667' // isi dengan nomor pulsa hp kalian
+global.pulsa = '085798267620' // isi dengan nomor pulsa hp kalian
 global.gopay = '6282221792667'
 
 //Nama Bot & Grouplink//
-global.namebot = 'RTXZY-MD'
-global.gc = 'https://chat.whatsapp.com/D6BZVRSymWaFU28t2lxaO0'
+global.namebot = 'UNNAMED DOULUO'
+global.gc = 'https://chat.whatsapp.com/LR8q27mkkihJptchGvpBct'
 global.web = 'https://github.com/BOTCAHX' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.instagram = 'https://instagram.com/prm2.0'
 
 //Tampilan wm Bot dan pesan bot//
-global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
+global.lolkey = 'ambys douluo' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© R-TXZY-MD'
 global.watermark = wm
@@ -41,7 +41,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nR-TXZY-MD'
+global.author = 'XIAO SAN\nR-TXZY-MD'
 
 //Apikey Setting//
 global.APIs = { // API Prefix
